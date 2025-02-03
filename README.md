@@ -52,10 +52,14 @@ git merge feature-1
 
 # pull request task
 
-### make a feature-1 branch
-
-![alt text](image-1.png)
-
-### defining the ruleset for the branch
-
 ![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-7.png)
+
+![alt text](image-6.png)
