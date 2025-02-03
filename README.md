@@ -1,4 +1,4 @@
-# branching-task
+# branching task
 
 ## screenshot of the task
 
@@ -49,3 +49,13 @@ git commit
 ```bash
 git merge feature-1
 ```
+
+# pull request task
+
+### make a feature-1 branch
+
+![alt text](image-1.png)
+
+### defining the ruleset for the branch
+
+![alt text](image-2.png)
