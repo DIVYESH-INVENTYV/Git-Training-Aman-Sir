@@ -64,7 +64,7 @@ git merge feature-1
 
 ### 2. Made a branch `feature-1` and did some changes in it.
 
-![alt text](image-3.png)
+![alt text](image-8.png)
 
 ### 3. We can see the compare the changes made in feature-1 branch and create a pull request.
 
